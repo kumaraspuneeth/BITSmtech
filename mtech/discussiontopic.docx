@@ -12,7 +12,7 @@ Think of homes that respond to your voice, adjust lighting based on motion, and 
 •	Encrypted communication between devices
 •	Role-based access control
 •	Short-lived tokens cached using Redis for efficient and secure access management
-•	https://github.com/kumaraspuneeth/BasicC/blob/main/Cprep/2024mt13102_Software_arch_assignement_2%20(1).pdf
+•	https://github.com/kumaraspuneeth/BITSmtech/blob/main/mtech/2024mt13102_Software_arch_assignement_2%20(1).pdf
 These tactics ensure that only authorized users and devices interact with the system, keeping your smart home safe from intrusions.
 💬 Let’s Discuss!
 •	What other ASRs do you think are vital for smart homes?
