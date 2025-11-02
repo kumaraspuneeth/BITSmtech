@@ -1,0 +1,22 @@
+Smart Home System Architecture – A Peek into the Future of Living
+Hi everyone! I recently explored the Smart Home System domain, focusing on how intelligent residences can automate everyday tasks while ensuring security, availability, and seamless integration.
+🔍 Domain Chosen:
+IoT Monitoring – Smart Residential Systems
+Think of homes that respond to your voice, adjust lighting based on motion, and secure themselves intelligently. That’s the future we’re building!
+🎯 Top 3 Architecturally Significant Requirements (ASRs):
+1.	Security – Protecting user data and device communication.
+2.	Availability – Ensuring the system is always responsive, especially for critical services like gas leak detection.
+3.	Interoperability – Supporting diverse protocols and third-party devices like ZigBee, Bluetooth LE, and Z-Wave.
+🛠️ Key Tactic for Security (Most Critical ASR): To tackle Security, we implemented:
+•	SSO & OAuth for user authentication
+•	Encrypted communication between devices
+•	Role-based access control
+•	Short-lived tokens cached using Redis for efficient and secure access management
+•	https://github.com/kumaraspuneeth/BasicC/blob/main/Cprep/2024mt13102_Software_arch_assignement_2%20(1).pdf
+These tactics ensure that only authorized users and devices interact with the system, keeping your smart home safe from intrusions.
+💬 Let’s Discuss!
+•	What other ASRs do you think are vital for smart homes?
+•	Have you faced challenges integrating third-party devices in your own setups?
+•	Would you prioritize security over availability in a smart home system?
+Looking forward to your thoughts and experiences!
+
